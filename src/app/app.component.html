@@ -19,7 +19,7 @@
                            <td>{{product_name.product_price}}</td>
                         <td>{{product_name.product_price*(product_name.product_gst/100)}}</td>
                       
-                        <td><input ng-blur="count = count + 1" ng-init="count=0">
+                        <td><input type="number" value="number">
                         {{count}}</td>
                            <td>{{product_name.product_price+product_name.product_price}}</td>  
                          </tr>
@@ -33,9 +33,22 @@
                           </tr>
                           
                 </table>
+                        
+
                     
 
  <!--
+
+  <table>
+                          <tr>
+                            <th>
+                            </th>
+                             </tr>
+                          <tr>
+                            <td>
+                            </td>
+                          </tr> 
+                        </table>
 <a routerLink="/c1">member</a>
 <br>
 <router-outlet></router-outlet>

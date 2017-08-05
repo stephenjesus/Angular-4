@@ -19,7 +19,7 @@ welcome=' PRODUCT_ENTRY';
     }];
 
       constructor(){
-        this.welcome = "Billing page"
+        this.welcome = "PRODUCT_LIST"
 
         this.products = null;
           var xhttp = new XMLHttpRequest();
