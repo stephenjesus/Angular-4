@@ -1,28 +1,27 @@
-# Demo
+# Blog Post Links
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
+1. **[Cognizant Aptitude Questions](https://shop.placementmaster.in/question-paper/cognizant-aptitude-questions)**: Explore a collection of aptitude questions that will help you prepare for Cognizant placement exams.
 
-## Development server
+2. **[CTS Aptitude Questions](https://shop.placementmaster.in/question-paper/cts-aptitude-questions)**: Prepare for CTS placement tests with our comprehensive list of aptitude questions and answers.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+3. **[Cognizant Aptitude Assessment](https://shop.placementmaster.in/question-paper/cognizant-aptitude-assessment)**: Enhance your skills with Cognizant-specific aptitude assessments designed for placement success.
 
-## Code scaffolding
+4. **[Cognizant Technical Assessment](https://shop.placementmaster.in/question-paper/cognizant-technical-assessment)**: Get ready for the Cognizant technical assessment with a variety of relevant practice questions.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
+5. **[Cognizant Aptitude Questions with Answers](https://shop.placementmaster.in/question-paper/cognizant-aptitude-questions-with-answers)**: Test your knowledge with Cognizant aptitude questions, complete with solutions and answers.
 
-## Build
+6. **[Cognizant AMCAT Questions](https://shop.placementmaster.in/question-paper/cognizant-amcat-questions)**: Improve your performance in the AMCAT test with a collection of Cognizant-related mock questions.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+7. **[TCS Aptitude Questions](https://shop.placementmaster.in/question-paper/tcs-aptitude-questions)**: Practice TCS aptitude questions to master the patterns and boost your chances of success.
 
-## Running unit tests
+8. **[TCS Question Paper](https://shop.placementmaster.in/question-paper/tcs-question-paper)**: Get access to TCS previous year question papers to understand the exam format and practice effectively.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+9. **[TCS Aptitude Questions with Answers](https://shop.placementmaster.in/question-paper/tcs-aptitude-questions-with-answers)**: Study TCS aptitude questions with detailed answers to enhance your preparation.
 
-## Running end-to-end tests
+10. **[TCS NQT Previous Papers](https://shop.placementmaster.in/question-paper/tcs-nqt-previous-papers)**: Practice with TCS NQT previous year papers to ensure thorough preparation for the National Qualifier Test.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+11. **[TCS Previous Year Question Papers](https://shop.placementmaster.in/question-paper/tcs-previous-year-question-papers)**: Get TCS previous year question papers to improve your chances of success in the placement exam.
 
-## Further help
+12. **[TCS BPS Test Questions](https://shop.placementmaster.in/question-paper/tcs-bps-test-questions)**: Prepare for the TCS BPS test with these relevant and comprehensive question papers.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+13. **[TCS Aptitude Questions and Answers PDF](https://shop.placementmaster.in/question-paper/tcs-aptitude-questions-and-answers-pdf)**: Download the TCS aptitude questions and answers in PDF format for easy access and practice.
